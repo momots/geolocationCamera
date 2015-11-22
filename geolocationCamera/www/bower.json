@@ -1,0 +1,21 @@
+{
+  "name": "www",
+  "homepage": "https://github.com/momots/geolocationCamera",
+  "authors": [
+    "momots <momot_s@icloud.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
