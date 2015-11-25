@@ -7,7 +7,7 @@
     <h3>GeolocationPage</h3>
     <li>GeoItemList</li>
     <li>GeoItem</li>
-    <li>GeItemAddForm</li>
+    <li>GeoItemAddForm</li>
     <h3>ImageListPage</h3>
     <li>ImageItemList</li>
     <li>ImageItem</li>
