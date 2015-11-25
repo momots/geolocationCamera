@@ -1,26 +1,20 @@
 # geolocationCamera
 
-1. Development plan 
+<h1>1. Development plan</h1>
 
-Iteration 1 - Creating application structure 
+<h2>Iteration 1 - Creating application structure</h2>
+<ul><h2>Elements</h2>
+    <h3>GeolocationPage</h3>
+    <li>GeoItemList</li>
+    <li>GeoItem</li>
+    <li>GeItemAddForm</li>
+    <h3>ImageListPage</h3>
+    <li>ImageItemList</li>
+    <li>ImageItem</li>
+    <li>ImageItemFullView</li>
+</ul>    
 
-- Elements 
-  -- GeolocationPage
-    --- GeoItemList
-      ---- GeoItemList.html
-    --- GeoItem
-      ---- GeoItem.html
-    --- GeItemAddForm
-      ---- GeoAddForm.html
-  -- ImageListPage
-    --- ImageItemList
-      ---- ImageItemList.html
-    --- ImageItem
-      ---- ImageItem.html
-    --- ImageItemFullView
-      ---- ImageItemFullView.html
-    
-Iteration 2 - Creating Geolocation pages 
+<h2>Iteration 2 - Creating Geolocation pages</h2> 
 
 GeoItemList.html 
 
@@ -43,8 +37,5 @@ GeoItem.html
 - Add Avatar 
 - Add Checkbox
 
-Iteration 2 - Creating Geolocation pages 
-
--- TODO
 
 
